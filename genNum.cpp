@@ -2,6 +2,7 @@
  * The program is guessing game, which works
  * generating numbers btw 1 - 10, then
  * Right number can be known in 5 choices.
+ * Coder Soner
  */
 
 #include <iostream>
